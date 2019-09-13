@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "name": "Media Watchlist",
-    "description": "Angular 5 Essential Training Course",
+    "description": "Udemy - Angular 5 Essential Training Course",
     "type": "Angular",
     "github": "https://github.com/elzie/angular2-essential-training",
     "livepreview": "http://angular-essential-training.elzie.dk/",
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Assignments App",
-    "description": "My results from the Packt - Learning Angular 7 Course",
+    "description": "Packt - Learning Angular 7 Course",
     "type": "Angular",
     "github": "https://github.com/elzie/elzie-learning-angular-7",
     "livepreview": "http://elzie-learning-angular7.elzie.dk/",
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "name": "Chat Website",
-    "description": "Chat app in Angular 8 and Google Firebase",
+    "description": "Packt - Building a realtime chat app in Angular 8 and Google Firebase",
     "type": "Angular",
     "github": "https://github.com/elzie/lz-chatproject01",
     "livepreview": "http://chat.elzie.dk/",
@@ -28,10 +28,10 @@
   {
     "id": 4,
     "name": "Portfolio Website",
-    "description": "Responsive Web-Development with Bootstrap 4 and Angular 7",
+    "description": "Packt - Responsive Web-Development with Bootstrap 4 and Angular 7",
     "type": "Angular",
     "github": "https://github.com/elzie/lz-portfolio-website",
-    "livepreview": "http://portfolio.elzie.dk/home",
+    "livepreview": "",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
