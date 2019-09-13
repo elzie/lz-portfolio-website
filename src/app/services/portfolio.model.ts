@@ -3,5 +3,7 @@ export interface Portfolio {
   name: string;
   description: string;
   type: string;
+  github: string;
+  livepreview: string;
   preview: string;
 }

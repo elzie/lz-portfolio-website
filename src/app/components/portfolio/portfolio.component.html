@@ -31,7 +31,8 @@
                 {{item.description}}
             </mat-card-content>
             <mat-card-actions>
-                <button mat-button>Visit</button>
+                <button *ngIf="item.github" (click)="visitClick(item.github)" mat-button>Github</button>
+                <button *ngIf="item.livepreview" (click)="visitClick(item.livepreview)" mat-button>Visit</button>
             </mat-card-actions>
         </mat-card>
     </div>

@@ -59,5 +59,8 @@ export class PortfolioComponent implements OnInit {
       this.portfolios = data.filter(p => p.type === selectedType || selectedType === 'all');
     });
   }
-
+  visitClick(visitClick: string) {
+    console.log('visit:', visitClick);
+    window.open(visitClick, "_blank");
+  }
 }

@@ -1,29 +1,37 @@
 [{
     "id": 1,
-    "name": "Transcof",
-    "description": "sit amet diam in magna bibendum imperdiet nullam orci pede",
-    "type": "Vue",
+    "name": "Media Watchlist",
+    "description": "Angular 5 Essential Training Course",
+    "type": "Angular",
+    "github": "https://github.com/elzie/angular2-essential-training",
+    "livepreview": "http://angular-essential-training.elzie.dk/",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
     "id": 2,
-    "name": "Tampflex",
-    "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus",
+    "name": "Assignments App",
+    "description": "My results from the Packt - Learning Angular 7 Course",
     "type": "Angular",
+    "github": "https://github.com/elzie/elzie-learning-angular-7",
+    "livepreview": "http://elzie-learning-angular7.elzie.dk/",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
     "id": 3,
-    "name": "Latlux",
-    "description": "urna ut tellus nulla ut erat id mauris vulputate elementum",
-    "type": "After Effects",
+    "name": "Chat Website",
+    "description": "Chat app in Angular 8 and Google Firebase",
+    "type": "Angular",
+    "github": "https://github.com/elzie/lz-chatproject01",
+    "livepreview": "http://chat.elzie.dk/",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
     "id": 4,
-    "name": "Overhold",
-    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et",
+    "name": "Portfolio Website",
+    "description": "Responsive Web-Development with Bootstrap 4 and Angular 7",
     "type": "Angular",
+    "github": "https://github.com/elzie/lz-portfolio-website",
+    "livepreview": "http://portfolio.elzie.dk/home",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
@@ -31,55 +39,26 @@
     "name": "Daltfresh",
     "description": "blandit mi in porttitor pede justo eu massa donec dapibus",
     "type": "React",
+    "github": "",
+    "livepreview": "",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
     "id": 6,
     "name": "Pannier",
     "description": "non lectus aliquam sit amet diam in magna bibendum imperdiet",
-    "type": "Angular",
+    "type": "React",
+    "github": "",
+    "livepreview": "",
     "preview": "https://fakeimg.pl/650x450/000000/"
   },
   {
     "id": 7,
     "name": "Treeflex",
     "description": "luctus ultricies eu nibh quisque id justo sit amet sapien",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 8,
-    "name": "Treeflex",
-    "description": "sit amet sem fusce consequat nulla nisl nunc nisl duis",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 9,
-    "name": "Matsoft",
-    "description": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 10,
-    "name": "Fix San",
-    "description": "in sagittis dui vel nisl duis ac nibh fusce lacus",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 11,
-    "name": "Y-find",
-    "description": "eget congue eget semper rutrum nulla nunc purus phasellus in",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 12,
-    "name": "Lotstring",
-    "description": "vestibulum proin eu mi nulla ac enim in tempor turpis",
     "type": "Vue",
+    "github": "",
+    "livepreview": "",
     "preview": "https://fakeimg.pl/650x450/000000/"
   }
 ]
