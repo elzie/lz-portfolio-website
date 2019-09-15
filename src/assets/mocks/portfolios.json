@@ -5,7 +5,8 @@
     "type": "Angular",
     "github": "https://github.com/elzie/angular2-essential-training",
     "livepreview": "http://angular-essential-training.elzie.dk/",
-    "preview": "https://fakeimg.pl/650x450/000000/"
+    "preview": "https://fakeimg.pl/650x450/000000/",
+    "avatarIcon": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
   },
   {
     "id": 2,
@@ -14,16 +15,18 @@
     "type": "Angular",
     "github": "https://github.com/elzie/elzie-learning-angular-7",
     "livepreview": "http://elzie-learning-angular7.elzie.dk/",
-    "preview": "https://fakeimg.pl/650x450/000000/"
+    "preview": "https://fakeimg.pl/650x450/000000/",
+    "avatarIcon": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
   },
   {
     "id": 3,
     "name": "Chat Website",
-    "description": "Packt - Building a realtime chat app in Angular 8 and Google Firebase",
+    "description": "Packt - Building a realtime chat app in Angular 8 and Google Firebase. User: test-user, Pass: 12345678",
     "type": "Angular",
     "github": "https://github.com/elzie/lz-chatproject01",
-    "livepreview": "http://chat.elzie.dk/",
-    "preview": "https://fakeimg.pl/650x450/000000/"
+    "livepreview": "https://lz-chatproject.firebaseapp.com/",
+    "preview": "https://fakeimg.pl/650x450/000000/",
+    "avatarIcon": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
   },
   {
     "id": 4,
@@ -32,16 +35,18 @@
     "type": "Angular",
     "github": "https://github.com/elzie/lz-portfolio-website",
     "livepreview": "",
-    "preview": "https://fakeimg.pl/650x450/000000/"
+    "preview": "https://fakeimg.pl/650x450/000000/",
+    "avatarIcon": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
   },
   {
     "id": 5,
-    "name": "Daltfresh",
-    "description": "blandit mi in porttitor pede justo eu massa donec dapibus",
-    "type": "React",
-    "github": "",
-    "livepreview": "",
-    "preview": "https://fakeimg.pl/650x450/000000/"
+    "name": "Hands-on Ts3 & ng7",
+    "description": "Packt - Hands on Typescript 3 and Angular 7 for Web Developers. Reactive Forms and Angular Animations.",
+    "type": "Angular",
+    "github": "https://github.com/elzie/lz-handson-ts3-ng7",
+    "livepreview": "http://hands-on-ts3-ng7.elzie.dk/",
+    "preview": "https://fakeimg.pl/650x450/000000/",
+    "avatarIcon": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
   },
   {
     "id": 6,

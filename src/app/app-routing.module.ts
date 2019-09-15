@@ -6,14 +6,15 @@ import { ContactComponent } from './components/contact/contact.component';
 
 const routes: Routes = [
   // add teh routes
+  { path: '', pathMatch: 'full', redirectTo: '/home' },
   { path: 'home', component: HomeComponent },
   { path: 'portfolio', component: PortfolioComponent },
   { path: 'contact', component: ContactComponent },
-  { path: '', pathMatch: 'full', redirectTo: 'home' }
+  { path: '**', redirectTo: '/home' }
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes, { useHash: true })],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

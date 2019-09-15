@@ -1,15 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
-@import './src/app/styles/material';
+@import './app/styles/material';
 
-@import './src/app/styles/_colors';
+@import './app/styles/_colors';
 
-@import '~bootstrap/scss/bootstrap';
+@import './../node_modules/bootstrap/dist/css/bootstrap';
 
-@import './src/app/styles/portfolio';
+@import './app/styles/portfolio';
 
 html,
 body {
   height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: rgba($color: #000000, $alpha: 0.1);
 }
 
 body {
