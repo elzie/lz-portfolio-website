@@ -65,5 +65,14 @@
     "github": "",
     "livepreview": "",
     "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 8,
+    "name": "After Effects Intro",
+    "description": "Intro I made in After Effects. AUDIO WARNING!",
+    "type": "After Effects",
+    "github": "",
+    "livepreview": "https://www.youtube.com/watch?v=PIV72et8XWM",
+    "preview": "/assets/images/lz-ae-yt-intro-001.jpg"
   }
 ]

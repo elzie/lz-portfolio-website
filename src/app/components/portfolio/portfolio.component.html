@@ -20,13 +20,16 @@
                         <i class="fab fa-angular fa-2x angular-color" *ngSwitchCase="'Angular'"></i>
                         <i class="fab fa-react fa-2x react-color" *ngSwitchCase="'React'"></i>
                         <i class="fab fa-vuejs fa-2x vue-color" *ngSwitchCase="'Vue'"></i>
-                        <i class="fab fa-vuejs fa-2x vue-color" *ngSwitchCase="'After Effects'"></i>
+                        <i class="fab ae-logo" *ngSwitchCase="'After Effects'"></i>
                         <i class="fas fa-question fa-2x" *ngSwitchDefault></i>
                     </ng-container>
                 </div>
                 <mat-card-title>{{item.name}}</mat-card-title>
             </mat-card-header>
-            <img mat-card-image [src]="item.preview + '?text=' + item.name" [alt]="item.name">
+            <div class="preview-title-holder">
+                <img mat-card-image [src]="item.preview" [alt]="item.name">
+                <span class="preview-title-text">&nbsp; {{item.name}} &nbsp;</span>
+            </div>
             <mat-card-content>
                 {{item.description}}
             </mat-card-content>

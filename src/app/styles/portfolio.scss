@@ -63,6 +63,26 @@ body {
   }
 }
 
+.ae-logo {
+  background-image: url('./assets/images/after-effects.png');
+  background-size: cover;
+  width: 32px;
+  height: 32px;
+}
+
+.preview-title-holder {
+  position: relative;
+  margin-top: 16px;
+}
+
+.preview-title-text {
+  position: absolute;
+  bottom: 25px;
+  left: 0;
+  background-color: antiquewhite;
+  border-radius: 2px;
+}
+
 .footer {
   position: relative;
   bottom: 1.25rem;
